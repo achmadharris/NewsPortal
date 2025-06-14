@@ -62,3 +62,9 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 
 # NewsPortal
+
+Demo aplikasi portal berita berbasis Laravel.
+
+## Screenshot
+
+![Login Page](screenshots/screenshot-login.png)
